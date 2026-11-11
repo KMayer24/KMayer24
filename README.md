@@ -1,4 +1,4 @@
-<img src="https://github.com/KMayer24.png" width="140" align="right" alt="Katharina Mayer">
+
 
 ### Katharina Mayer
 
