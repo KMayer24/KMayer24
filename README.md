@@ -1,5 +1,3 @@
-
-
 ### Katharina Mayer
 
 I work on natural language processing and large language models, often with legal text. After studying economics and law, I did my master's in Social and Economic Data Science at the University of Konstanz, where I now work as a research assistant on detecting AI-generated legal text. Part of this is generating synthetic texts with open-source LLMs and building a benchmark dataset for detection methods.
@@ -12,7 +10,7 @@ During my master's I worked on the following projects:
 - **Gender bias in judicial language** (master's thesis)  
   Do US court opinions associate men and women with different concepts, and do LLMs do the same when they write opinions? I trained word embeddings on 1.14 million appellate opinions and had four LLMs decide the same real cases with only the gender of a party changed.
 
-- **AI-generated comments on YouTube**  
+- **[AI-generated comments on YouTube](https://github.com/KMayer24/youtube-ai-comments)**  
   How do AI-written comments shape discussions under climate videos? I collected around 68,000 comments, detected AI-generated ones with a DeBERTa classifier and measured sentiment with a fine-tuned RoBERTa model.
 
 Most of my work is in Python, R and SQL, with PostgreSQL, PyTorch and Hugging Face, on Linux servers and HPC clusters.
